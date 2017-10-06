@@ -91,5 +91,6 @@
   },
   "eslintConfig": {
     "extends": "inferno-app"
-  }
+  },
+  "devDependencies": {}
 }

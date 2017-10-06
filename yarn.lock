@@ -2683,7 +2683,7 @@ fs.realpath@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/fs.realpath/-/fs.realpath-1.0.0.tgz#1504ad2523158caa40db4a2787cb01411994ea4f"
 
-fsevents@1.1.2, fsevents@^1.0.0:
+fsevents@^1.0.0:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-1.1.2.tgz#3282b713fb3ad80ede0e9fcf4611b5aa6fc033f4"
   dependencies:
@@ -3111,7 +3111,7 @@ indexof@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/indexof/-/indexof-0.0.1.tgz#82dc336d232b9062179d05ab3293a66059fd435d"
 
-inferno-component@^3.7.0, inferno-component@^3.9.0:
+inferno-component@^3.7.0:
   version "3.9.0"
   resolved "https://registry.yarnpkg.com/inferno-component/-/inferno-component-3.9.0.tgz#26a653bd9f055df49116facf54321ece990798f8"
   dependencies:
@@ -3153,56 +3153,6 @@ inferno-error-overlay@^2.2.0:
     settle-promise "1.0.0"
     source-map "0.5.6"
 
-inferno-scripts@4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/inferno-scripts/-/inferno-scripts-4.2.0.tgz#d9dba9c46712f900746f993def723bbeb99ab3a4"
-  dependencies:
-    autoprefixer "7.1.2"
-    babel-core "6.25.0"
-    babel-eslint "7.2.3"
-    babel-jest "20.0.3"
-    babel-loader "7.1.1"
-    babel-plugin-inferno "^3.2.0"
-    babel-preset-inferno-app "^5.1.0"
-    babel-runtime "^6.23.0"
-    case-sensitive-paths-webpack-plugin "2.1.1"
-    chalk "2.0.1"
-    connect-history-api-fallback "1.3.0"
-    cross-spawn "5.1.0"
-    css-loader "0.28.4"
-    detect-port "1.2.1"
-    dotenv "4.0.0"
-    eslint "4.3.0"
-    eslint-config-inferno-app "^4.2.0"
-    eslint-loader "1.9.0"
-    eslint-plugin-flowtype "2.35.0"
-    eslint-plugin-import "2.7.0"
-    eslint-plugin-inferno "7.0.1"
-    eslint-plugin-jsx-a11y "6.0.2"
-    extract-text-webpack-plugin "3.0.0"
-    file-loader "0.11.2"
-    fs-extra "4.0.0"
-    html-webpack-plugin "2.29.0"
-    http-proxy-middleware "0.17.4"
-    inferno "^3.7.0"
-    inferno-component "^3.7.0"
-    inferno-dev-utils "^3.2.0"
-    inferno-error-overlay "^2.2.0"
-    jest "20.0.4"
-    object-assign "4.1.1"
-    postcss-flexbugs-fixes "^3.0.0"
-    postcss-loader "2.0.6"
-    promise "8.0.1"
-    style-loader "0.18.2"
-    sw-precache-webpack-plugin "^0.11.4"
-    url-loader "0.5.9"
-    webpack "3.4.0"
-    webpack-dev-server "2.6.1"
-    webpack-manifest-plugin "1.2.1"
-    whatwg-fetch "2.0.3"
-  optionalDependencies:
-    fsevents "1.1.2"
-
 inferno-shared@3.9.0:
   version "3.9.0"
   resolved "https://registry.yarnpkg.com/inferno-shared/-/inferno-shared-3.9.0.tgz#da0ae6223a26a2aa5729284bee3f3ef92d744a46"
@@ -3215,7 +3165,7 @@ inferno-vnode-flags@3.9.0:
   version "3.9.0"
   resolved "https://registry.yarnpkg.com/inferno-vnode-flags/-/inferno-vnode-flags-3.9.0.tgz#8e358803b8c396788070d54786d86894cecd4a46"
 
-inferno@3.9.0, inferno@^3.7.0, inferno@^3.9.0:
+inferno@3.9.0, inferno@^3.7.0:
   version "3.9.0"
   resolved "https://registry.yarnpkg.com/inferno/-/inferno-3.9.0.tgz#4e9a312e9929abb741dfe285630841b0d7e95e62"
   dependencies:

@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a div with a className App-header 1`] = `[object Object],[object Object]`;
+
+exports[`renders without crashing 1`] = `[object Object],[object Object]`;
