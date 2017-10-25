@@ -88,6 +88,7 @@ module.exports = {
     // for React Native Web.
     extensions: ['.web.js', '.js', '.json', '.web.jsx', '.jsx'],
     alias: {
+      '@': '../src/components',
       react: 'inferno-compat',
       'react-dom': 'inferno-compat',
       

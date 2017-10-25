@@ -1,5 +1,5 @@
 import { render } from 'inferno';
-import App from '../App';
+import App from '@/App';
 
 const createDiv = () => {
   return document.createElement('div');
